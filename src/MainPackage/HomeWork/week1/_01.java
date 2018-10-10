@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class _01 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-
+        // test
         int a = in.nextInt();
         if (a >= 9 && a <= 18) {
             System.out.println("Я на работе");
