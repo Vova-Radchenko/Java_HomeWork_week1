@@ -8,5 +8,6 @@ public class _11 {
         int[] mas = ForWorkWithArray.createArray(10);
         ForWorkWithArray.printArray(mas);
         System.out.println(" ");
+        // 23:50
     }
 }
